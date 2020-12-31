@@ -8,5 +8,5 @@ Invocation name: some facts
 * "Alexa give me a fact"
 * "Alexa give me fact on statue of unity"
 
-#### This skill is live on Alexa Skill store, url for the same: https://www.amazon.com/dp/B08NVCQS11
+#### This skill is live on Alexa Skill store, URL for the same: https://www.amazon.com/dp/B08NVCQS11
 ##### Skill is build in python
